@@ -1,4 +1,4 @@
-# 📅 Día 1 - [6/02/26]
+# 📅 Día 1 - 6/02/26
 
 ## 🎯 Lo que hemos visto hoy
 
