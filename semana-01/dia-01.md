@@ -26,3 +26,29 @@ Ahora tengo la duda de cuando sale el error "UNTRACKED"
 ---
 
 **Siguiente paso:** Empezar SAT-01 Atlas
+## ¿Qué hace el comando git pull?
+- Descarga repositorios remotos
+## ¿Para qué sirve el archivo .gitignore?
+- Para especificar archivos y directorios que Git debe ignorar para evitar que se suban al repositorio.
+## ¿Qué diferencia hay entre git add . y git add nombre-archivo?
+- La principal diferencia es el alcance: git add . prepara todos los archivos nuevos, modificados y eliminados en el directorio actual y subdirectorios. En cambio, git add nombre-archivo añade únicamente el archivo o directorio especificado al área de preparación.
+
+## 🔍 Comandos investigados
+
+### git log --oneline
+Para visualizar el historial de commits de un repositorio.
+
+### git remote -v
+Para listar conexiones remotas, repositorios en GitHub, asociados al repositorio local.
+
+### git branch
+Para gestionar ramas en Git: crear, listar, renombrar o eliminar líneas de desarrollo independientes.
+
+### git pull
+Para descargar repositorios remotos.
+
+### .gitignore
+Para especificar archivos y directorios que Git debe ignorar para evitar que se suban al repositorio.
+
+### git add . vs git add archivo
+- git add . prepara todos los archivos nuevos, modificados y eliminados en el directorio actual y subdirectorios. En cambio, git add nombre-archivo añade únicamente el archivo o directorio especificado al área de preparación.
